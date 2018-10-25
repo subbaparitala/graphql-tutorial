@@ -1,6 +1,5 @@
 # Let's build our first GraphQL API in RoR
-GraphQL is taking the world by storm... well, maybe.  The adoption of GraphQL seems
- to be increasing and that means we should be aware of it and understand it. 
+The adoption of GraphQL seems to be increasing and that means we should be aware of it and understand it. 
 
  
  In this article, we'll accomplish the following things:
